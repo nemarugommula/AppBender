@@ -1,3 +1,5 @@
+# This project is a Low code UI builder to build your favourite apps and bend them in any way you want.
+
 # Turborepo starter
 
 This is an official starter Turborepo.
